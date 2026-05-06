@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+html {
+    font-size: 16px;
+}
+
+body {
+    
+    margin: 0;
+    font-family: "Cabin", sans-serif;
+    background-color: #e5f2ff;
+    color: #000000;
+    padding: 1.25rem;
+}
+
+h1 {
+    text-align: center;
+    background-color: #fffdd8;
+    color: #000000;
+    padding: 2rem;
+    border-radius: 0.625rem;
+    font-size: 2rem;
+    margin-bottom: 1.25rem;
+}
+
+h2 {
+    color: #000000;
+    padding-bottom: 0.3125rem;
+    margin-top: 1.25rem;
+    font-size: 1.5rem;
+}
+
+section {
+    background-color: white;
+    padding: 0.9375rem;
+    margin: 0 auto 1.25rem auto;
+    border-radius: 0.625rem;
+    box-shadow: 0 0 0.625rem rgba(0,0,0,0.1);
+    width: 60%;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    background-color: white;
+    padding: 0.9375rem;
+    border-radius: 0.625rem;
+    width: 60%;
+    margin: 0 auto;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 1.25rem;
+    padding: 0.625rem;
+    background-color: #0080ff;
+    color: white;
+    border-radius: 0.625rem;
+    font-size: 0.9rem;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
